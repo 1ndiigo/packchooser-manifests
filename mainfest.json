@@ -4,6 +4,11 @@
       "name":"Example",
       "description":"Example description",
       "url":"https://example.com"
+    },
+    {
+      "name":"Venturecraft",
+      "description":"Here's an early beta version of a huge structure datapack I'm making. Right now these are some small structures. There are some big dungeons and things to explore being worked on.\n\n\nPost any structure suggestions in the comments!\nIf I use one of the ideas you come up with, I will shout you out(if you want) in the video when this datapack's full version comes out!"
+      "url":"https://www.planetminecraft.com/data-pack/venturecraft-new-structures-beta-0-3-1-18-2/download/mirror/641154/"
     }
   ]
 }
