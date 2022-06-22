@@ -1,8 +1,8 @@
 {
   "packs":[
     {
-      "name":"Example"
-      "description":"Example description"
+      "name":"Example",
+      "description":"Example description",
       "url":"https://example.com"
     }
   ]
