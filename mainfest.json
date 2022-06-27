@@ -20,6 +20,13 @@
       "description":"For the Datapack Jam contest, I made a literal Potato PC! This can run a variety of apps and do special things. It’s not the best since it’s powered by potatoes, but it does the job! When you right click on the Potato PC, a gui will open. You can navigate through the Potato PC using the taskbar icons at the bottom and the buttons in the apps. To go back to the main screen, click the PotatOS button in the bottom left.",
       "pack_url":"https://static.planetminecraft.com/files/resource_media/datapack/potatopcdata.zip",
       "rp_url":"https://static.planetminecraft.com/files/resource_media/resourcepack/potatopcresources.zip"
+    },
+    {
+      "name":"§5§lMinecraft but I must wear glasses",
+      "author":"§lAmirhossainJ123",
+      "description":"Just wear glasses and you will be fine you can see everywhere, but don't take damage you can drop your glasses, be careful my guy, you will get a glasses if you join the world, but if you lost it you can craft another one, 7 iron bars and 2 glass panes!",
+      "pack_url":"https://static.planetminecraft.com/files/resource_media/datapack/glasses.zip",
+      "rp_url":"https://static.planetminecraft.com/files/resource_media/resourcepack/glases.zip"
     }
   ]
 }
