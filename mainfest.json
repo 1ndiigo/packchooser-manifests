@@ -2,15 +2,24 @@
   "packs":[
     {
       "name":"Venturecraft",
+      "author":"DinoBrik",
       "description":"Here's an early beta version of a huge structure datapack I'm making. Right now these are some small structures. There are some big dungeons and things to explore being worked on.\n\n\nPost any structure suggestions in the comments!\nIf I use one of the ideas you come up with, I will shout you out(if you want) in the video when this datapack's full version comes out!",
       "pack_url":"https://download2267.mediafire.com/sco8n3ae9qgg/yb9g1sidlqsdwhl/Venturecraft+Beta+0.4.zip",
       "rp_url":""
     },
     {
       "name":"More TNT",
+      "author":"Silabear",
       "description":"silabear can do this if he wants",
       "pack_url":"https://static.planetminecraft.com/files/resource_media/datapack/moretntdata.zip",
       "rp_url":"https://static.planetminecraft.com/files/resource_media/resourcepack/moretntresourcepack-e3330.zip"
+    },
+    {
+      "name":"Potato PC",
+      "author":"Silabear",
+      "description":"For the Datapack Jam contest, I made a literal Potato PC! This can run a variety of apps and do special things. It’s not the best since it’s powered by potatoes, but it does the job! When you right click on the Potato PC, a gui will open. You can navigate through the Potato PC using the taskbar icons at the bottom and the buttons in the apps. To go back to the main screen, click the PotatOS button in the bottom left.",
+      "pack_url":"https://static.planetminecraft.com/files/resource_media/datapack/potatopcdata.zip",
+      "rp_url":"https://static.planetminecraft.com/files/resource_media/resourcepack/potatopcresources.zip"
     }
   ]
 }
